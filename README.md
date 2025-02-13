@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- I'm currently studying my computer science degree in the university 👨‍🎓
+- I'm currently learning C++, Phyton and C# 💻
+- I would like to develop some games in the future 🎮👾
+  
 <!--
 **Samuel-Montoya-Diaz/Samuel-Montoya-Diaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
